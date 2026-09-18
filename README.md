@@ -38,7 +38,7 @@ The results of the DEP analysis are transmitted to AI, which interprets the anal
 
 ## ARES — Investment Evaluation System
 
-* 🌐 **Application:** https://ares.agilesolutionsinc.org/
+* 🌐 Video Demo: Watch the Ares Investor workflow demonstration: https://youtu.be/iHmND8maYxQ
 * 📖 **Instructions:** https://ares.instructions.agilesolutionsinc.org/
 * 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/ares-investor
 
