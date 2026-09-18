@@ -13,7 +13,7 @@ Email: jerryevalentine@gmail.com
 
 ## ODIN — Decision Support System
 
-* 🌐 **Application:** Please watch Youtube Video before using Odin at https://youtu.be/jTVuXRZ2mzc
+* 🌐 **Video Demo:** Watch the Odin workflow demonstration:https://youtu.be/jTVuXRZ2mzc
 * 📖 **Instructions:** https://odin.instructions.agilesolutionsinc.org/
 * 💻 **GitHub Code and Documentation:** https://github.com/JerryValentine2/odin
 
