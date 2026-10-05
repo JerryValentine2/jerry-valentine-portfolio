@@ -4,7 +4,7 @@
 
 I design and deploy production AI applications, data platforms, and cloud-native services using Python, Google Cloud, Large Language Models, APIs, and modern data engineering practices.
 
-This portfolio highlights three systems demonstrating applied decision support, investment evaluation, and cloud-based vector data infrastructure.
+This portfolio highlights three systems demonstrating applied decision support, investment evaluation, and reusable AI application creation.
 
 Email: jerryevalentine@gmail.com
 
