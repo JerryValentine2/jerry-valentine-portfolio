@@ -75,9 +75,6 @@ The GCP extension demonstrates how generated applications can gain live integrat
 
 **Upcoming Features:**
 
-* Published walkthrough, setup instructions, and GitHub documentation.
-* Independent testing of application creation, initialization, and sharing.
-* Expanded automated evaluation and runtime enforcement of behavioral contracts.
-* Improved documentation refresh and reconciliation with live system configuration.
+* Additional demonstration videos and public architecture documentation.
 
 **Technologies:** Large Language Models, Markdown agent definitions, Google Drive, CSV/JSON, Model Context Protocol (MCP), Google Cloud Platform integration, TVDM behavioral contracts, systems analysis
