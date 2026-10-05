@@ -56,8 +56,7 @@ After evaluating a decision in ODIN, a decision that leads to a potential invest
 ## HARMONIA — AI Application Factory
 
 * 🌐 **Video Demo:** https://www.youtube.com/watch?v=IKsp66UEGbU
-* 📖 **Instructions:** Forthcoming.
-* 💻 **GitHub Code and Documentation:** Forthcoming.
+* 🔒 Availability: Private implementation; source code and application packages are not publicly available.
 
 HARMONIA is an evidence-governed AI application factory designed to help minimally trained users turn natural-language requirements into reusable, shareable AI application packages.
 
