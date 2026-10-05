@@ -55,7 +55,7 @@ After evaluating a decision in ODIN, a decision that leads to a potential invest
 
 ## HARMONIA — AI Application Factory
 
-* 🌐 **Video Demo:** Forthcoming.
+* 🌐 **Video Demo:** https://www.youtube.com/watch?v=IKsp66UEGbU
 * 📖 **Instructions:** Forthcoming.
 * 💻 **GitHub Code and Documentation:** Forthcoming.
 
