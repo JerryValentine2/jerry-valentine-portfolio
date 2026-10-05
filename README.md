@@ -51,3 +51,34 @@ After evaluating a decision in ODIN, a decision that leads to a potential invest
 **Status:** UAT tested and validated; customer testing has not yet been completed.
 
 **Technologies:** Python, Google Cloud, Large Language Models, REST APIs, financial analysis, data analytics
+
+
+## HARMONIA — AI Application Factory
+
+* 🌐 **Video Demo:** Forthcoming.
+* 📖 **Instructions:** Forthcoming.
+* 💻 **GitHub Code and Documentation:** Forthcoming.
+
+HARMONIA is an evidence-governed AI application factory designed to help minimally trained users turn natural-language requirements into reusable, shareable AI application packages.
+
+The factory creates coordinated agent roles, structured data files, operating instructions, and persistent knowledge artifacts. Applications use Google Drive to retain their definitions, data, and accumulated knowledge across conversations. Initial application packages have been created in approximately one hour, depending on scope and integration requirements.
+
+HARMONIA incorporates **TVDM behavioral contracts** that define agent responsibilities, permitted actions, required evidence, and PASS/STOP conditions. These contracts guide evidence-based execution, traceability, and verification.
+
+**Application Examples:**
+
+* **PDF Organizer:** Organizes PDF metadata and supports conversational searches across a document collection.
+* **GCP System Navigator:** Supports system documentation, education, and problem investigation. After generation, the application was independently extended with an MCP connection that successfully listed 129 Cloud Run services and retrieved service configuration details.
+
+The GCP extension demonstrates how generated applications can gain live integration capabilities without returning to the factory.
+
+**Status:** Functional prototype used by its creator to generate and extend application packages. Initial Cloud Run integration demonstrated; independent novice-user testing, automated evaluation, and production validation are forthcoming.
+
+**Upcoming Features:**
+
+* Published walkthrough, setup instructions, and GitHub documentation.
+* Independent testing of application creation, initialization, and sharing.
+* Expanded automated evaluation and runtime enforcement of behavioral contracts.
+* Improved documentation refresh and reconciliation with live system configuration.
+
+**Technologies:** Large Language Models, Markdown agent definitions, Google Drive, CSV/JSON, Model Context Protocol (MCP), Google Cloud Platform integration, TVDM behavioral contracts, systems analysis
